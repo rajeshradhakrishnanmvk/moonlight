@@ -1,6 +1,7 @@
 # moonlight
 javascript deep dive study till 2030
-
+# Design 2025
+![Draft Design](docs/MoonLigh.v1.png)
 ## Project "Moonlight" : Crafting Dynamic Web Apps with AI Agents
 **A Practical Guide to Building Self-Evolving Applications with LLMs**
 
